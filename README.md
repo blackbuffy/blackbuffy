@@ -1,7 +1,7 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Nikita Mendikovsky
 ==========================================================================================================================================
 
-Android Developer (Kotlin)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Junior+Android+Developer;Using+Kotlin)](https://git.io/typing-svg)
 --------------------------
 
 I studied Scratch, Python, HTML, CSS from 2017 to 2022 at local IT courses when I was just a kid. From the end of 2023 I began to study Java on my own, towards the end of 2024 I decided to switch to Android development and I am still studying technologies related to Android development and Kotlin
