@@ -26,7 +26,3 @@ I studied Scratch, Python, HTML, CSS from 2017 to 2022 at local IT courses when 
 ### Trophies
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=blackbuffy&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
-
-### Stats
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=blackbuffy&theme=dark&locale=ru&background=45%2C36ACBD%2CEB545400&ring=36ACBD&fire=36ACBD&currStreakLabel=36ACBD)](https://git.io/streak-stats)
