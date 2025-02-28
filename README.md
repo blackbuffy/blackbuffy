@@ -33,3 +33,5 @@ I studied Scratch, Python, HTML, CSS from 2017 to 2022 at local IT courses when 
 
 [![Anurag'GitHub stats](https://github-readme-stats.vercel.app/api?username=blackbuffy&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
